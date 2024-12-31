@@ -47,7 +47,7 @@ El script generará un archivo `CEP_descargado.zip` que contiene el comprobante 
 
 ## Institución que recibe la transferencia electrónica
 
-```python
+```
 "40138" = ABC CAPITAL
 "40133" = ACTINVER
 "40062" = AFIRME
